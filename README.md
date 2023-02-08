@@ -2,7 +2,7 @@
 
 NOMBRE DE LOS INTEGRANTES DE EQUIPO:
 
-Aguilar Palma Saul Nicolas       MATRICULA: 1321124160
+Aguilar Palma Saul Nicolas       MATRICULA: 1321124160<br>
 De La Cruz Medina Jose Eduardo   MATRICULA: 1321124069
 Duran Ramos Fernando Antonio     MATRICULA: 1321124210
 Flores Morales Ariatna Janette   MATRICULA: 1321124212
